@@ -1,5 +1,6 @@
 import BLOG from '@/blog.config'
-import BlogPostListPage from './components/BlogPostListPage'
+// import BlogPostListPage from './components/BlogPostListPage'
+import BlogPostListPage from '@/themes/theme/hexo/BlogPostListPage'
 import BlogPostListScroll from './components/BlogPostListScroll'
 import Header from './components/Header'
 import CONFIG_MATERY from './config_matery'
